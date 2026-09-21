@@ -16,7 +16,7 @@
 [![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython/)
 [![Matplotlib](https://img.shields.io/badge/Plot-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](#-下载--安装)
-[![License](https://img.shields.io/badge/License-see%20lic.txt-lightgrey?style=flat-square)](lic.txt)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 <br/>
 
@@ -332,8 +332,8 @@ Windows 建议安装/启用「微软雅黑」。程序已内置 `Microsoft YaHei
 
 ## 🙏 致谢与许可
 
-- 原始绘图脚本作者：**Yafei Jiang**
-- 许可请遵循项目内 [`lic.txt`](lic.txt) 的约定。
+- 本项目以 **MIT License** 开源，详见 [`LICENSE`](LICENSE)。
+- 原始绘图脚本作者：**Yafei Jiang**；另有项目内 [`lic.txt`](lic.txt) 的约定，请一并遵守。
 
 <div align="center">
 
