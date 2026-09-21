@@ -1,0 +1,23 @@
+# Energy Profile Studio · Conda 环境（可选）
+# 创建:  conda env create -f environment.yml
+# 激活:  conda activate chem_env
+#
+# 也可以直接使用 requirements.txt:
+#   pip install -r requirements.txt
+
+name: chem_env
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - matplotlib>=3.6
+  - pip
+  - pip:
+      - PySide6>=6.5
+      # 可选：数值文字自动避让（不装则用内置算法）
+      # - adjustText>=0.8
+      # 可选：Excel 读取兜底（不装则用内置解析器）
+      # - openpyxl>=3.0
