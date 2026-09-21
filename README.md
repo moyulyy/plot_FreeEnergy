@@ -260,9 +260,7 @@ python -m PyInstaller --noconfirm --clean EnergyProfileStudio.spec
 ├── requirements.txt                   pip 依赖
 ├── environment.yml                    conda 环境（可选）
 ├── README.md                          本文档
-├── EnergyProfile.xlsx                 示例数据
-├── matplotlib绘制势能面剖面图.pdf      绘图参考
-└── lic.txt
+└── EnergyProfile.xlsx                 示例数据
 ```
 
 ### 🧩 脱离界面单独调用 `plot_core`
@@ -329,11 +327,6 @@ Windows 建议安装/启用「微软雅黑」。程序已内置 `Microsoft YaHei
 </details>
 
 ---
-
-## 🙏 致谢与许可
-
-- 本项目以 **MIT License** 开源，详见 [`LICENSE`](LICENSE)。
-- 原始绘图脚本作者：**Yafei Jiang**；另有项目内 [`lic.txt`](lic.txt) 的约定，请一并遵守。
 
 <div align="center">
 
